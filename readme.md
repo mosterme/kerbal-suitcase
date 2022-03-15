@@ -1,3 +1,5 @@
+<style>i {color:red }</style>
+
 <h2><img src="source/images/icon.png" style="float:left; margin-right: .7em; vertical-align:text-bottom"/> Kerbal Suitcase
 <br/><i style="color:red">A small collection of nicely colored suits for the Kerbal Space Program suit picker.</i></h2> 
   
