@@ -1,5 +1,5 @@
 
-<img src="source/images/icon.png" style="float:left; margin-right: .7em; vertical-align:text-bottom"/> <big>Kerbal Suitcase</big>
+<img src="source/images/icon.png" style="float:left; margin-right: .7em; vertical-align:text-bottom"/> <span style="font-size: larger">Kerbal Suitcase</span>
 
 A small collection of nicely colored suits for the [Kerbal Space Program](https://www.kerbalspaceprogram.com/) suit picker.
 
