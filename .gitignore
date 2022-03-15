@@ -1,0 +1,11 @@
+# This .gitignore file should be placed at the root of your project directory.
+
+[Bb]in/
+[Bb]uild
+[Dd]ebug/
+[Ll]ibrary/
+[Ll]og/
+[Mm]emory/
+[Oo]bj/
+[Rr]elease/
+[Tt]mp/
