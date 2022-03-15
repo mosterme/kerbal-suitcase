@@ -1,5 +1,4 @@
-<img src="source/images/icon.png" style="display: inline; float:left; margin-right: .7em"/>
-Kerbal Suitcase
+<img src="source/images/icon.png" style="display: inline; float:left; margin-right: .7em"/> Kerbal Suitcase
 
 A small collection of nicely colored suits for the [Kerbal Space Program](https://www.kerbalspaceprogram.com/) suit picker.
 _____
