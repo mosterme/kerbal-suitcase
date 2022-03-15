@@ -1,8 +1,14 @@
-<img src="source/images/clown.png" style="float:left; margin-right: .7em"/>
-
-Changelog
+<img src="source/images/clown.png" style="float:left; margin-right: .7em"/> Changelog
 ---------
 Record of all notable changes made to the [Kerbal Suitcase](readme.md).
+
+
+### 0.2 - browncoats (sepia filter for the win)
+
+* added Default/Sepia Suits (browncoats)
+* added new icons (male and female)
+
+![Clown and Sepia Suits](source/images/screenshot-1.png)
 
 ___
 
