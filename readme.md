@@ -1,4 +1,4 @@
-<img src="source/images/icon.png" style="float:left; margin-right: .7em"/>
+<img src="source/images/icon.png" style="float:left; margin-right: .7em; vertical-align:text-bottom"/>
 
 Kerbal Suitcase
 ---------------
