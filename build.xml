@@ -1,0 +1,14 @@
+<project name="Kerbal-Suitcase" default="zip" basedir=".">
+
+  <target name="clean" description="delete release directory">
+    <delete dir="release"/>
+  </target>
+
+  <target name="zip" description="create release zip file">
+    <exec executable="git" outputproperty="tag"><arg line="describe --abbrev=0"/></exec>
+    <zip destfile="release/${ant.project.name}-${tag}.zip">
+      <zipfileset dir="." excludes="source/** *.md *.xml" prefix="GameData/${ant.project.name}"/>
+    </zip>
+  </target>
+
+</project>
