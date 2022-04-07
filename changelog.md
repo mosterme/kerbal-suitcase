@@ -2,6 +2,11 @@
 ---------
 Record of all notable changes made to the [Kerbal Suitcase](readme.md).
 
+### 0.4 - future colors
+
+* added red, green, blue, yellow and orange future suit colors
+
+![Future Colors Suits](source/images/screenshot-4.png)
 
 ### 0.3 - dinkelstein construction
 
