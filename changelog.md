@@ -8,6 +8,7 @@ Record of all notable changes made to the [Kerbal Suitcase](readme.md).
 
 ![Future Colors Suits](source/images/screenshot-4.png)
 
+___
 ### 0.3 - dinkelstein construction
 
 * added dinkelstein construction suits for all suit types
