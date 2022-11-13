@@ -23,5 +23,5 @@ jobs:
 
     - name: 🐜 Build with Ant
       run: | 
-           echo ${{ github.ref }}
+           echo ${{ github.ref_name }}
            ant -noinput -buildfile build.xml
