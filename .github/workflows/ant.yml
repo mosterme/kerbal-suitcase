@@ -22,5 +22,6 @@ jobs:
         distribution: 'temurin'
 
     - name: 🐜 Build with Ant
-      run: echo ${{ github.ref }}
-      run: ant -noinput -buildfile build.xml
+      run: | 
+           echo ${{ github.ref }}
+           ant -noinput -buildfile build.xml
