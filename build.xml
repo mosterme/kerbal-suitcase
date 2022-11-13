@@ -6,8 +6,6 @@
 
   <target name="zip" description="create release zip file">
     <exec executable="git" outputproperty="tag"><arg line="describe --abbrev=0"/></exec>
-    <echo>${{ github.ref }}</echo>
-    <echo>${{ github.ref_name }}</echo>
     <zip destfile="release/${ant.project.name}-${tag}.zip">
       <zipfileset dir="." excludes="release/** source/** *.md *.xml" prefix="GameData/${ant.project.name}"/>
     </zip>
