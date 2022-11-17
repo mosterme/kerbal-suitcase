@@ -20,6 +20,11 @@ jobs:
       with:
         java-version: '11'
         distribution: 'temurin'
-
+      
     - name: 🐜 Build with Ant
       run: ant -noinput -buildfile build.xml -Dtag=${{ github.ref_name }}
+
+    - name: 📝 Store tag details
+      run: |
+        echo "TAG_NAME=$(git tag -l --format='%(contents:subject)' ${{ github.ref_name }})" >> $GITHUB_ENV
+        echo "TAG_BODY=$(git tag -l --format='%(contents:body)' ${{ github.ref_name }})" >> $GITHUB_ENV
