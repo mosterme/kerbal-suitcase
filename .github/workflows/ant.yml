@@ -22,7 +22,7 @@ jobs:
         distribution: 'temurin'
       
     - name: 🐜 Build with Ant
-      run: ant -noinput -buildfile build.xml -Dtag=${{ github.ref_name }}
+      run: ant clean zip -Dtag=${{ github.ref_name }}
 
     - name: 📝 Store tag details
       run: |
