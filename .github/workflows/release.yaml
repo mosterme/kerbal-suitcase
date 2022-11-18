@@ -8,8 +8,7 @@ on:
       - '*'
 
 jobs:
-  release:
-    name: Publish Release
+  publish:
 
     runs-on: ubuntu-latest
 
