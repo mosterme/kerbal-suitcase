@@ -41,7 +41,6 @@ ___
 ![Clown and Sepia Suits](source/images/screenshot-2.png)
 
 ___
-
 ### 0.1 - initial commit (preparation and resources)
 
 * created source pdn files with layers for id and uv maps
