@@ -1,4 +1,4 @@
-# Check out code, set up Java, package with Ant, fetch tag subject and body, publish release.
+# Check out code, set up Java, package with Ant, store release details and publish release.
 
 name: Publish Release
 
