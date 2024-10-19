@@ -25,6 +25,21 @@ ___
 
 ![Future Colors Suits](source/images/screenshot-4.png)
 
+![Future Red Male](future/red_male.png)
+![Future Red Female](future/red_female.png)
+&#160;&#160;&#160;
+![Future Green Male](future/green_male.png)
+![Future Green Female](future/green_female.png)
+&#160;&#160;&#160;
+![Future Blue Male](future/blue_male.png)
+![Future Blue Female](future/blue_female.png)
+&#160;&#160;&#160;
+![Future Yellow Male](future/gold_male.png)
+![Future Yellow Female](future/gold_female.png)
+&#160;&#160;&#160;
+![Future Orange Male](future/orange_male.png)
+![Future Orange Female](future/orange_female.png)
+
 ___
 ### 0.3 - dinkelstein construction
 
